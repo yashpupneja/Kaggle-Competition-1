@@ -10,4 +10,4 @@ I have used several models for this task. These include:
 - Random Forest 
 - Convolutional Neural Network
 
-The best model is a CNN with 4 convolutional layers and 2 fully connected layers. The model is trained for 50 epochs and the accuracy is 98.5%. All the models are saved in the Kaggle_submission.ipynb file. The logistic regression from scratch is saved in the Logistic_Regression.py file. 
+The best model is a CNN with several layers. The model is trained for 50 epochs and the accuracy is 98.5%. All the models are saved in the Kaggle_submission.ipynb file. The logistic regression from scratch is saved in the Logistic_Regression.py file. 
